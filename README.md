@@ -34,3 +34,4 @@ Based on — 🐣[Rollup starter with Typescript](https://github.com/toastyboost
 ## TODO
 
 - [ ] Add article how to publish NPM package
+- [ ] Add stoty build
